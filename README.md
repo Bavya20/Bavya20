@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saravana Bavyasri!
+# 👋 Hi, I'm S Bavyasri!
 
 ✨ Software Developer | Python Backend Developer | CSE Undergrad @ SASTRA  
 💻 I build secure, smart, and beautiful tech — one line of code at a time!
