@@ -1,6 +1,6 @@
 # 👋 Hi, I'm S Bavyasri!
 
-✨ Software Developer | Python Developer | CSE Undergrad @ SASTRA  
+✨ Upcoming Software Developer | Python & Backend Enthusiast | CSE Undergrad @ SASTRA  
 💻 I build secure, smart, and beautiful tech — one line of code at a time!
 
 ---
